@@ -1,7 +1,4 @@
-# Landing-page-for-online-furniture
-Certainly! Here's a README template for a landing page project for an online furniture store using HTML, CSS, and JavaScript:
 
----
 
 # Online Furniture Store Landing Page
 
