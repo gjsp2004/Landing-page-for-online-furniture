@@ -11,7 +11,7 @@ This is a landing page project for an online furniture store created using HTML,
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
+
 
 ## Description
 
